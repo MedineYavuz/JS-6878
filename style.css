@@ -1,0 +1,16 @@
+.noneContent{
+    display: none;
+}
+
+.designOfPage{
+    display: flex;
+    flex-direction: row;  
+}
+
+
+#tab1-button,#tab2-button,#tab3-button{
+    
+    background-color: antiquewhite;
+    color: rgb(9, 9, 9);
+   
+}
